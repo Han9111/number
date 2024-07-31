@@ -1,0 +1,16 @@
+html{
+    font-family: sans-serif;
+}
+body{
+    width:50%;
+    max-width: 800PX;
+    min-width: 488px;
+    margin: 0 auto;
+}
+.form input[type="number"]{
+    width: 200px;
+}
+.lastresult{
+    color: white;
+    padding: 3px
+}
